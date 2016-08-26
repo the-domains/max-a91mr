@@ -1,0 +1,14 @@
+layout_spectrum: 0.12301176297478378
+typography_spectrum: 0.7901301058009267
+color:
+  brandStrength: 0.8137075605336577
+  lightness: 0.3265330493450165
+  saturation: 0.43044158979319036
+  rhythmicContrast: 0.8361422487068921
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: max
