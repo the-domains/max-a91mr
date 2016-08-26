@@ -5,4 +5,10 @@ color:
   lightness: 0.3265330493450165
   saturation: 0.43044158979319036
   rhythmicContrast: 0.8361422487068921
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: max
